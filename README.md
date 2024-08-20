@@ -1,6 +1,4 @@
-# Hi there, I'm [Your Name] 👋
-
-!Profile Banner
+# Hi there, I'm Ron 👋
 
 ## About Me
 
