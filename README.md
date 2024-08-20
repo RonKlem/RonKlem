@@ -10,8 +10,8 @@ I'm a seasoned data professional with 10 years of experience, adept at leveragin
 - 🌱 I’m currently learning more about Retrieval Augmented Generation technology.
 - 👯 I’m looking to collaborate on projects involving advanced machine learning and big data.
 - 💬 Ask me about machine learning, data integration, and predictive modeling.
-- 📫 How to reach me: [Your Email or LinkedIn]
-- ⚡ Fun fact: I enjoy solving Reddit-scale data challenges!
+- 📫 How to reach me: rklem88@yahoo.com
+- ⚡ Fun fact: I enjoy playing golf and video games!
 
 ## Skills
 
