@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a seasoned data professional with 10 years of experience, adept at leveraging advanced analytics to drive user growth and operational efficiency. I've excelled in roles at the Federal Reserve, employing machine learning techniques and ETL processes to enhance data-driven strategies. I'm actively seeking a Data Scientist position to apply my predictive modeling and data integration expertise.
+I'm a seasoned data professional with 11 years of experience, adept at leveraging advanced analytics to drive user growth and operational efficiency. I've excelled in roles at the Federal Reserve, employing machine learning techniques and ETL processes to enhance data-driven strategies. I'm actively seeking a Data Scientist position to apply my predictive modeling and data integration expertise.
 
 - 🔭 I’m currently working on migrating substantial datasets to AWS using Databricks.
 - 🌱 I’m currently learning more about Retrieval Augmented Generation technology.
