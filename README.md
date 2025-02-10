@@ -4,7 +4,7 @@
 
 I'm a seasoned data professional with 11 years of experience, adept at leveraging advanced analytics to drive user growth and operational efficiency. I've excelled in roles at the Federal Reserve, employing machine learning techniques and ETL processes to enhance data-driven strategies. I'm actively seeking a Data Scientist/Machine Learning Engineer position to apply my predictive modeling and data integration expertise.
 
-- 🔭 I’m currently working on migrating substantial datasets to AWS using Databricks.
+- 🔭 I’m currently working on a chatbot that leverages AWS Sagemaker and Llama3 model.
 - 🌱 I’m currently learning more about Retrieval Augmented Generation technology.
 - 👯 I’m looking to collaborate on projects involving advanced machine learning and big data.
 - 💬 Ask me about machine learning, data integration, and predictive modeling.
@@ -14,7 +14,7 @@ I'm a seasoned data professional with 11 years of experience, adept at leveragin
 ## Skills
 
 - **Programming Languages**: Python, SQL
-- **Machine Learning**: Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, AdaBoost, Naive Bayes
+- **Machine Learning**: Scikit-learn, PyTorch, TensorFlow, Keras, XGBoost, AdaBoost, Naive Bayes, LLM
 - **Data Visualization**: Tableau, Matplotlib, Seaborn, Plotly
 - **Big Data Technologies**: Databricks, Spark, Hadoop
 
